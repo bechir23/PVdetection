@@ -21,7 +21,7 @@ Anomaly Detection:
 
 The final dataset, incorporating both shading and anomaly classes (Hotspot-Single Bypassed), was prepared using Ucloud platform.(PVdataset.ipynb)
 Model Details
-Type: YOLOv10 trained on an A10G GPU using Lightning AI platform.
+Type: YOLOv10m trained on an A10G GPU using Lightning AI platform.
 Training Insights: Metrics and training/validation logs are available at https://6006-01j0ypcxp6s35bxagy60bt6xh6.cloudspaces.litng.ai .
 
 Challenges and Considerations
